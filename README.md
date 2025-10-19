@@ -3,11 +3,11 @@
 - Java.
 - -GSON.
 - Postman.
-- Eclipse IDE
+- Eclipse IDE.
 
 ## 📦 Requisitos
 
-- Java 8 o superior
+- Java 8 o superior.
 - Bibliotecas usadas: java.net.http, com.fasterxml.jackson <!-- para JSON, si se usa -->
 
 ## ▶️ Cómo ejecutar
@@ -19,7 +19,7 @@
 
 ## ⚠️ Notas
 
-- Asegúrate de que ConsultaPelicula use la URL correcta: https://swapi.py4e.com/api/films/.
+- Asegurese de que ConsultaPelicula use la URL correcta: https://swapi.py4e.com/api/films/.
 </br>
 
 💙 <strong>Alejandra Contreras</strong></br>
