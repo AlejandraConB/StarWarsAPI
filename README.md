@@ -8,6 +8,7 @@
 ## 📦 Requisitos
 
 - Java 8 o superior.
+- IDE: como IntelliJ o Eclipse.
 - Bibliotecas usadas: java.net.http, com.fasterxml.jackson <!-- para JSON, si se usa -->
 
 ## ▶️ Cómo ejecutar
