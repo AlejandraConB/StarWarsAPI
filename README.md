@@ -1,8 +1,9 @@
 ## 🖥️ Tecnologías Utilizadas:
 
-- Java
-- Postman
-- Eclipse IDEA
+- Java.
+- -GSON.
+- Postman.
+- Eclipse IDE
 
 ## 📦 Requisitos
 
