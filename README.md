@@ -1,7 +1,7 @@
 ## 🖥️ Tecnologías Utilizadas:
 
 - Java.
-- GSON.
+- JSON/GSON.
 - Postman.
 - Eclipse IDE.
 
