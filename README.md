@@ -3,6 +3,11 @@
 - Java
 - Postman
 - Eclipse IDEA
+
+## 📦 Requisitos
+
+- Java 8 o superior
+- Bibliotecas usadas: java.net.http, com.fasterxml.jackson (para JSON, si se usa)
 </br>
 
 💙 <strong>Alejandra Contreras</strong></br>
