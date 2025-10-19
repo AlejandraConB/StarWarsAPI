@@ -15,6 +15,10 @@
 - Compila las clases: javac *.java
 - Ejecuta la clase principal: java api.starwars.general.Principal
 - Ingresa un número de película (1-6) cuando se solicite.
+
+## ⚠️ Notas
+
+- Asegúrate de que ConsultaPelicula use la URL correcta: https://swapi.py4e.com/api/films/.
 </br>
 
 💙 <strong>Alejandra Contreras</strong></br>
