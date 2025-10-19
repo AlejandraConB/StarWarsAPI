@@ -8,6 +8,13 @@
 
 - Java 8 o superior
 - Bibliotecas usadas: java.net.http, com.fasterxml.jackson <!-- para JSON, si se usa -->
+
+## ▶️ Cómo ejecutar
+
+- Clona o descarga el proyecto.
+- Compila las clases: javac *.java
+- Ejecuta la clase principal: java api.starwars.general.Principal
+- Ingresa un número de película (1-6) cuando se solicite.
 </br>
 
 💙 <strong>Alejandra Contreras</strong></br>
